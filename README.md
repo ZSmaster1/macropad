@@ -17,7 +17,7 @@ The PCB gets sandwiched in between the main body and the bottom piece. The PCB c
 ![cad3.png](assets/cad3.png)
 ![cad2.png](assets/cad2.png)
 
-Made in Fusion 360.
+Made in Fusion 360. Make sure the macropad works outside the case before assembling the case since it will be very hard to take it apart.
 
 ## Schematic + PCB
 The PCB was made in KiCad, it incorporates 2 layers, a ground plane, and vias.
