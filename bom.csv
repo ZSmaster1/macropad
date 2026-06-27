@@ -1,0 +1,12 @@
+Part,Quantity,Optional
+Cherry MX switches,9,no
+DSA keycaps,9,no
+1N4148 DO-35 diode,9,no
+SK6812MINI-E LED,20,no
+0.91" 128x32 i2c OLED Display,1,no
+EC11 Rotary Encoder,1,no
+XIAO RP2040 microcontroller,1,no
+PCB,1,no
+Case - top,1,no
+Case - bottom,1,no
+100nf through-hole capacitor,10,yes
